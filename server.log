@@ -1,0 +1,4 @@
+2026-07-01 10:00:01 INFO User 'alex' logged in from IP 192.168.1.5
+2026-07-01 10:12:11 ERROR Failed login attempt on admin portal from IP 203.0.113.42
+2026-07-01 10:15:00 INFO Automated backup completed successfully
+2026-07-01 10:20:45 CRITICAL Server CPU utilization at 99% - System unstable
