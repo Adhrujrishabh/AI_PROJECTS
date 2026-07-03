@@ -17,9 +17,9 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 ## 🛠️ Key Technical Capabilities
 
-- **Browser Control & Automation:** Experienced with **Playwright**, building active scripts that can control physical browser engines (Chrome/Safari), click visual layouts, fill out secure text forms, and handle dynamic JavaScript sites [0.4].
-- **Automated Media Harvesting:** Scripts that crawl web structures, parse network source tags, download raw binary media files, and organize assets cleanly into local folder directories [0.4].
-- **Anti-Block Infrastructure:** Equipped with custom timeout intervals, request headers, and polite-throttling timers (`time.sleep`) to keep website server connections stable and secure [0.4].
+- **Browser Control & Automation:** Experienced with **Playwright**, building active scripts that can control physical browser engines (Chrome/Safari), click visual layouts, fill out secure text forms, and handle dynamic JavaScript sites.
+- **Automated Media Harvesting:** Scripts that crawl web structures, parse network source tags, download raw binary media files, and organize assets cleanly into local folder directories.
+- **Anti-Block Infrastructure:** Equipped with custom timeout intervals, request headers, and polite-throttling timers (`time.sleep`) to keep website server connections stable and secure.
 
 ---
 
