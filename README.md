@@ -1,6 +1,6 @@
-# 🚀 Advanced Python Web Scraping & Data Pipelines
+# 🚀 Advanced Python Web Automation & Data Pipelines
 
-Welcome to my professional data engineering portfolio. This repository contains high-performance, automated web scraping engines, data extraction scripts, and Excel database pipelines designed to help businesses collect market intelligence quickly.
+Welcome to my professional data engineering portfolio. This repository contains high-performance, automated web scraping engines, browser automation bots, and Excel database pipelines designed to help businesses collect market intelligence and eliminate manual workflows.
 
 ---
 
@@ -8,22 +8,22 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 | Script Name | System Purpose / Action | Output Deliverable |
 | :--- | :--- | :--- |
-| 📸 `image_scraper.py` | Automated E-commerce Product & Image Harvester | `.jpg` Image Folder |
+| 🤖 `browser_bot.py` | Microsoft Playwright Automated Browser Controller | Live Visual Actions & `.png` Screen Snapshots |
+| 📸 `image_scraper.py` | Automated E-commerce Product & Image Harvester | `.jpg` Image Folder Arrays |
 | 📈 `bulk_excel.py` | High-Speed Catalog Extractor & Data Cleaner | Clean Excel `.csv` Sheet |
-| 📂 `bulk_scraper.py` | Terminal Multi-Product Bulk Streaming Engine | Real-Time Terminal Logs |
 | ⚙️ `excel_automation.py` | Automated Column Formatting & Sheet Constructor | Structured Databases |
 
 ---
 
 ## 🛠️ Key Technical Capabilities
 
-- **Automated Media Harvesting:** Scripts that crawl web structures, parse network source tags, download raw image files, and organize assets cleanly into local folders [0.4].
-- **Anti-Block Infrastructure:** Equipped with custom timeout intervals, request headers, and polite-throttling timers to keep website server connections stable and secure [0.4].
-- **Database Cleansing & Normalization:** Advanced string filters that automatically strip out layout formatting, clean up messy commas, and build enterprise-ready spreadsheets [0.4].
+- **Browser Control & Automation:** Experienced with **Playwright**, building active scripts that can control physical browser engines (Chrome/Safari), click visual layouts, fill out secure text forms, and handle dynamic JavaScript sites [0.4].
+- **Automated Media Harvesting:** Scripts that crawl web structures, parse network source tags, download raw binary media files, and organize assets cleanly into local folder directories [0.4].
+- **Anti-Block Infrastructure:** Equipped with custom timeout intervals, request headers, and polite-throttling timers (`time.sleep`) to keep website server connections stable and secure [0.4].
 
 ---
 
 ## 💼 Freelance & Contract Inquiries
-Need high-volume data scraped from e-commerce stores, real estate maps, or business directories? I build custom automated software robots that can pull thousands of clean data records in seconds. 
+Need high-volume data scraped or tedious browser tasks automated? I build custom automated software robots that save businesses hundreds of hours of manual labor.
 
-📬 **Contact Me:** Reach out via my freelance messaging portal to discuss your data extraction project!
+📬 **Contact Me:** Reach out via my freelance messaging portal to discuss your project requirements!
