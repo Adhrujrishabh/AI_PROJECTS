@@ -8,6 +8,7 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 | Script Name | System Purpose / Action | Output Deliverable |
 | :--- | :--- | :--- |
+| 👇 `scroll_bot.py` | Playwright Infinite Scroll & Lazy-Loading Simulator | Dynamic Expanded Layout Proofs |
 | 🤖 `browser_bot.py` | Microsoft Playwright Automated Browser Controller | Live Visual Actions & `.png` Screen Snapshots |
 | 📸 `image_scraper.py` | Automated E-commerce Product & Image Harvester | `.jpg` Image Folder Arrays |
 | 📈 `bulk_excel.py` | High-Speed Catalog Extractor & Data Cleaner | Clean Excel `.csv` Sheet |
@@ -17,9 +18,9 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 ## 🛠️ Key Technical Capabilities
 
-- **Browser Control & Automation:** Experienced with **Playwright**, building active scripts that can control physical browser engines (Chrome/Safari), click visual layouts, fill out secure text forms, and handle dynamic JavaScript sites.
-- **Automated Media Harvesting:** Scripts that crawl web structures, parse network source tags, download raw binary media files, and organize assets cleanly into local folder directories.
-- **Anti-Block Infrastructure:** Equipped with custom timeout intervals, request headers, and polite-throttling timers (`time.sleep`) to keep website server connections stable and secure.
+- **Bypassing Dynamic Layouts (Infinite Scroll):** Experienced in writing JavaScript-injection engines via Playwright to simulate human scroller actions, forcing lazy-loading content networks to render hidden data rows smoothly [1.1].
+- **Browser Control & Automation:** Experienced with **Playwright**, building active scripts that can control physical browser engines (Chrome/Safari), click visual layouts, fill out secure text forms, and handle dynamic JavaScript sites [0.4].
+- **Automated Media Harvesting:** Scripts that crawl web structures, parse network source tags, download raw binary media files, and organize assets cleanly into local folder directories [0.4].
 
 ---
 
