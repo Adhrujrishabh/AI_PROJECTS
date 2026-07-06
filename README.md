@@ -8,6 +8,7 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 | Script Name | System Purpose / Action | Output Deliverable |
 | :--- | :--- | :--- |
+| 🔑 `login_bot.py` | Playwright Secure Gate & Form Authentication Robot | Unlocked Member Dashboard Layout Proofs |
 | 👇 `scroll_bot.py` | Playwright Infinite Scroll & Lazy-Loading Simulator | Dynamic Expanded Layout Proofs |
 | 🤖 `browser_bot.py` | Microsoft Playwright Automated Browser Controller | Live Visual Actions & `.png` Screen Snapshots |
 | 📸 `image_scraper.py` | Automated E-commerce Product & Image Harvester | `.jpg` Image Folder Arrays |
@@ -18,9 +19,9 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 ## 🛠️ Key Technical Capabilities
 
-- **Bypassing Dynamic Layouts (Infinite Scroll):** Experienced in writing JavaScript-injection engines via Playwright to simulate human scroller actions, forcing lazy-loading content networks to render hidden data rows smoothly [1.1].
-- **Browser Control & Automation:** Experienced with **Playwright**, building active scripts that can control physical browser engines (Chrome/Safari), click visual layouts, fill out secure text forms, and handle dynamic JavaScript sites [0.4].
-- **Automated Media Harvesting:** Scripts that crawl web structures, parse network source tags, download raw binary media files, and organize assets cleanly into local folder directories [0.4].
+- **Secure Gate Penetration (Form Authentication):** Experienced in building active Playwright bots that interact with login protection frames, type targeted credential strings into user input text fields, and securely unlock private enterprise portals.
+- **Bypassing Dynamic Layouts (Infinite Scroll):** Experienced in writing JavaScript-injection engines via Playwright to simulate human scroller actions, forcing lazy-loading content networks to render hidden data rows smoothly.
+- **Automated Media Harvesting:** Scripts that crawl web structures, parse network source tags, download raw binary media files, and organize assets cleanly into local folder directories.
 
 ---
 
