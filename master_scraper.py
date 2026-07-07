@@ -19,16 +19,17 @@ with sync_playwright() as p:
     page = context.new_page()
     
     print("🌐 Connecting directly to our data matrix in stealth mode...")
-    page.goto("https://quotes.toscrape.com", wait_until="domcontentloaded")
+    page.goto("https://www.scrapingcourse.com/ecommerce/", wait_until="domcontentloaded")
 
     time.sleep(2)
 
     print("📊 Extracting targeted data metrics from the website...")
     
     # Locate all the text headlines on the page view grid
-    text_elements = page.locator("span.text")
+    page.locator("h2").first.wait_for()
+    text_elements = page.locator("h2")
     headlines = text_elements.all_inner_texts()
-    
+
     print(f"💰 Harvested {len(headlines)} fresh text rows successfully!")
     
     # Loop through our text list array and dump each item into the Excel file columns
