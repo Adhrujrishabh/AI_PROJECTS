@@ -8,6 +8,7 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 | Script Name | System Purpose / Action | Output Deliverable |
 | :--- | :--- | :--- |
+| 🕵️‍♂️ `stealth_bot.py` | Playwright Anti-Bot Bypass Engine & Timeout Handler | Full-Page Enterprise Renders |
 | 📖 `multi_page_bot.py` | Playwright Multi-Page Catalog Pagination Crawler | Deep Multi-Page Structured Arrays |
 | 🔑 `login_bot.py` | Playwright Secure Gate & Form Authentication Robot | Unlocked Member Dashboard Layout Proofs |
 | 👇 `scroll_bot.py` | Playwright Infinite Scroll & Lazy-Loading Simulator | Dynamic Expanded Layout Proofs |
@@ -20,9 +21,9 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 ## 🛠️ Key Technical Capabilities
 
+- **Enterprise Firewall Penetration (Stealth Engine):** Advanced proficiency in writing cloaked Playwright scrapers that inject custom Macintosh signatures, structure error-handling try/except logic nets, and bypass strict network load locks [1.1].
 - **Deep Pagination & Multi-Page Crawling:** Advanced proficiency in writing looping crawlers via Playwright that locate structural "Next" pagination buttons, trigger automated navigational clicks, and crawl across deep product indexes seamlessly [1.1].
 - **Secure Gate Penetration (Form Authentication):** Experienced in building active Playwright bots that interact with login protection frames, type targeted credential strings into user input text fields, and securely unlock private enterprise portals [0.4].
-- **Bypassing Dynamic Layouts (Infinite Scroll):** Experienced in writing JavaScript-injection engines via Playwright to simulate human scroller actions, forcing lazy-loading content networks to render hidden data rows smoothly [1.1].
 
 ---
 
