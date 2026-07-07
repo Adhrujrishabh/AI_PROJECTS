@@ -8,6 +8,7 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 | Script Name | System Purpose / Action | Output Deliverable |
 | :--- | :--- | :--- |
+| 👑 `master_scraper.py` | Playwright Unified Pipeline (Stealth + Element Waiting) | Automated Excel Lead Databases |
 | 🕵️‍♂️ `stealth_bot.py` | Playwright Anti-Bot Bypass Engine & Timeout Handler | Full-Page Enterprise Renders |
 | 📖 `multi_page_bot.py` | Playwright Multi-Page Catalog Pagination Crawler | Deep Multi-Page Structured Arrays |
 | 🔑 `login_bot.py` | Playwright Secure Gate & Form Authentication Robot | Unlocked Member Dashboard Layout Proofs |
@@ -21,9 +22,9 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 ## 🛠️ Key Technical Capabilities
 
+- **Unified Data Pipelines (Master Scraper):** Expert capability in merging stealth-mode routing parameters, dynamic asynchronous element wait triggers, and high-volume Excel data-logging streams into a single industrial-grade automation script [0.4, 1.1].
 - **Enterprise Firewall Penetration (Stealth Engine):** Advanced proficiency in writing cloaked Playwright scrapers that inject custom Macintosh signatures, structure error-handling try/except logic nets, and bypass strict network load locks [1.1].
 - **Deep Pagination & Multi-Page Crawling:** Advanced proficiency in writing looping crawlers via Playwright that locate structural "Next" pagination buttons, trigger automated navigational clicks, and crawl across deep product indexes seamlessly [1.1].
-- **Secure Gate Penetration (Form Authentication):** Experienced in building active Playwright bots that interact with login protection frames, type targeted credential strings into user input text fields, and securely unlock private enterprise portals [0.4].
 
 ---
 
