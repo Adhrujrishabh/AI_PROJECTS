@@ -8,6 +8,7 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 | Script Name | System Purpose / Action | Output Deliverable |
 | :--- | :--- | :--- |
+| 🛡️ `proxy_scraper.py` | Automated Proxy Verification Loop & Masked Network Core | Authenticated IP Routing Matrices |
 | 🏎️ `parallel_scraper.py` | Browser Context Multiplexer & Concurrent Execution Core | Simultaneous Parallel Data Extractions |
 | 🥷 `ultra_stealth.py` | Playwright Core JavaScript Cloaking & Fingerprint Masker | Unblockable Enterprise Penetration |
 | 👑 `master_scraper.py` | Playwright Unified Pipeline (Stealth + Element Waiting) | Automated Excel Lead Databases |
@@ -24,9 +25,9 @@ Welcome to my professional data engineering portfolio. This repository contains 
 
 ## 🛠️ Key Technical Capabilities
 
+- **Automated Proxy Routing (Proxy Scraper):** Expert capability in constructing try/except validation matrices that cycle through authenticated proxy connections, handling custom timeouts, and masking network locations [1.1].
 - **Concurrent Engine Multiplexing (Parallel Scraper):** Expert efficiency in spawning isolated browser tab states simultaneously to split harvesting run-times by over 50% across deep multi-domain indexes [1.1].
 - **Advanced JS Evasion & Cloaking (Ultra-Stealth):** Mastery in strip-mining webdriver detection traces and overwriting internal browser object models to navigate past aggressive enterprise network firewalls completely unseen [1.1].
-- **Unified Data Pipelines (Master Scraper):** Expert capability in merging stealth-mode routing parameters, dynamic asynchronous element wait triggers, and high-volume Excel data-logging streams into a single industrial-grade automation script [0.4, 1.1].
 
 ---
 
